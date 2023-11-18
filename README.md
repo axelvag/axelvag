@@ -20,3 +20,4 @@ vue.js react
 
 ### 📫 Let's talk!
 
+Linkedin
