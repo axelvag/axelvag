@@ -2,8 +2,9 @@
 
 I have a passion in solving underserved problems.
 
-> I am looking for an stage @ April '24! <
-> If you are recruiting or building something cool, please reach out :) <
+> I am looking for an stage @ April '24!
+
+> If you are recruiting or building something cool, please reach out :)
 
 ### 🔭 I'm working on
 
