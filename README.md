@@ -12,7 +12,7 @@ I have a passion in solving underserved problems.
 
 ### ❤️‍🔥 I love working with
 
-[C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png) C HTML CSS PHP LINUX BASH DOCKER Python
+[C++](https://github.com/axelvag/axelvag/blob/master/img/c++logo.png) C HTML CSS PHP LINUX BASH DOCKER Python
 
 ### 🌱 I’m learning
 
