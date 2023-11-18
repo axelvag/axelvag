@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi, I'm Axel 👋
 
-<!--
-**axelvag/axelvag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a passion in solving underserved problems.
 
-Here are some ideas to get you started:
+I am looking for an stage @ April '24!
+If you are recruiting or building something cool, please reach out :)
+
+### 🔭 I'm working on
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
