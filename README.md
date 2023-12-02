@@ -8,7 +8,7 @@ I have a passion in solving underserved problems.
 
 ### 🔭 I'm working on
 
-  .42 school project - [ft_transcendance](https://github.com/axelvag?tab=repositories) - a pong game in a web site (live chat, ranked, ...)
+  .42 school project - [ft_transcendance](https://github.com/axelvag?tab=repositories) - a 3D pong game in a web site (live chat, ranked, ...)
 
 ### ❤️‍🔥 I love working with
 
