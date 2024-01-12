@@ -29,9 +29,9 @@ I have a passion in solving underserved problems.
 ### 🌱 I’m learning
 
 <p align="left">
+<a href="https://kubernetes.io/fr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://fr.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://fr.react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
