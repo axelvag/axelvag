@@ -17,6 +17,8 @@ I have a passion in solving underserved problems.
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://fr.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://fr.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://devdocs.io/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.php.net/manual/fr/intro-whatis.php" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="c" width="40" height="40"/> </a>
@@ -31,8 +33,6 @@ I have a passion in solving underserved problems.
 <p align="left">
 <a href="https://kubernetes.io/fr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://fr.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
 ### 📫 Let's talk!
