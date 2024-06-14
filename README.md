@@ -1,8 +1,10 @@
 ### Hi, I'm Axel 👋
 
+ENGIE Vianeo intership !
+
 I have a passion in solving underserved problems.
 
-> I am looking for an stage @ June '24!
+> I am looking for an Alternance @ October '11! in Lyon
 
 > If you are recruiting or building something cool, please reach out :)
 
