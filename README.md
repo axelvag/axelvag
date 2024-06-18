@@ -34,7 +34,9 @@ I have a passion in solving underserved problems.
 
 <p align="left">
 <a href="https://kubernetes.io/fr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/fr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://commondatahub.engie.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datahub/datahub-ar21.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
 ### 📫 Let's talk!
