@@ -38,6 +38,7 @@ I have a passion in solving underserved problems.
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://commondatahub.engie.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datahub/datahub-ar21.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/fr/lambda/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
 ### 📫 Let's talk!
