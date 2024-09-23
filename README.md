@@ -4,7 +4,7 @@ ENGIE Vianeo intership !
 
 I have a passion in solving underserved problems.
 
-> I am looking for an Alternance @ October '11! in Lyon
+> I will start an AlternanceAlternance @ November '25! in ENGIE Vianeo
 
 > If you are recruiting or building something cool, please reach out :)
 
