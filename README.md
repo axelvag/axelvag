@@ -1,10 +1,10 @@
-### Hi, I'm Axel 👋
-
-ENGIE Vianeo intership !
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DevOps;+Back-end!;" />
 </h1>
+
+### Hi, I'm Axel 👋
+
+#### ENGIE Vianeo intership + apprenticeship !
 
 I have a passion in solving underserved problems.
 
@@ -12,9 +12,9 @@ I have a passion in solving underserved problems.
 
 > If you are recruiting or building something cool, please reach out :)
 
-### 🔭 I'm working on
+### 🔭 Top project
 
-  .42 school project - [ft_transcendance](https://github.com/axelvag?tab=repositories) - a 3D pong game in a web site (live chat, ranked, ...)
+  .42 school project - [ft_transcendance](https://github.com/axelvag?tab=repositories) - a 3D pong game in a Online Web Site (live chat, ranked, Friendship, ...)
 
 ### ❤️‍🔥 I love working with
 
