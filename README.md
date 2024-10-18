@@ -38,6 +38,7 @@ I have a passion in solving underserved problems.
 <p align="left">
 <a href="https://kubernetes.io/fr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://registry.terraform.io/providers/hashicorp/aws/latest/docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://commondatahub.engie.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datahub/datahub-ar21.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/fr/s3/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png" alt="c" width="40" height="40"/> </a>
 </p>
