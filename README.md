@@ -2,6 +2,10 @@
 
 ENGIE Vianeo intership !
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DevOps;+Back-end!;" />
+</h1>
+
 I have a passion in solving underserved problems.
 
 > I will start an AlternanceAlternance @ November '25! in ENGIE Vianeo
