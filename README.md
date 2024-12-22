@@ -51,6 +51,10 @@ I have a passion in solving underserved problems.
 <a href="https://fr.linkedin.com/in/axel-vaganay-183352292?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alessio-scatamacchia-133129229" height="30" width="40" /></a>
 </p>
 
+### 🌐 42
+
+[![avaganay's 42 stats](https://badge.mediaplus.ma/darkblue/avaganay?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ### ❤️ I love GITHUB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=axelvag&show_icons=true)  
