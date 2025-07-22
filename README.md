@@ -6,8 +6,6 @@
 
 I have a passion in solving underserved problems.
 
-> I will start an Apprenticeship November '25! in ENGIE Vianeo
-
 > If you are recruiting or building something cool, please reach out :)
 
 ### 🔭 Top project
