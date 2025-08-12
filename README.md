@@ -10,10 +10,11 @@ I have a passion in solving underserved problems.
 
 ### 🔭 Top project
 
-  .42 school project - [ft_transcendance](https://github.com/axelvag?tab=repositories) - a 3D pong game in a Online Web Site (live chat, ranked, Friendship, ...)
+  .42 school project - [ft_transcendance](https://github.com/axelvag?tab=repositories) - a 3D pong game in a Online Web Site (microservice, live chat, ranked, Friendship, ...)
 
 ## 🌐 MY DEVOPS STACK
 
+![aws](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![k8s](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
