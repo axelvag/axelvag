@@ -2,7 +2,7 @@
 
 ## Hi, I'm Axel 👋
 
-### ENGIE Vianeo intership + apprenticeship !
+### DevOps at ENGIE Vianeo
 
 I have a passion in solving underserved problems.
 
