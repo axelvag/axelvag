@@ -12,6 +12,10 @@ I have a passion in solving underserved problems.
 
   .42 school project - [ft_transcendance](https://github.com/axelvag?tab=repositories) - a 3D pong game in a Online Web Site (live chat, ranked, Friendship, ...)
 
+## 🌐 MY DEVOPS STACK
+
+![k8s](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white) ![argocd](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044) ![vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white)
+
 ### ❤️‍🔥 I love working with
 
 <p align="left">
