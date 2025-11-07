@@ -23,7 +23,7 @@ I have a passion in solving underserved problems.
 
 ## PORTFOLIO
 
-![My Portfolio](https://axel-vaganay-portfolio.netlify.app)
+[My Portfolio](https://axel-vaganay-portfolio.netlify.app)
 
 ### ❤️‍🔥 I love working with
 
